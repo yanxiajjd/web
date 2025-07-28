@@ -6,7 +6,6 @@ import { NewsSection } from '@/components/NewsSection';
 import { StaffSection } from '@/components/StaffSection';
 import { Footer } from '@/components/Footer';
 import { motion } from 'framer-motion';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
 
 export default function Home() {
